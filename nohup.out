@@ -1,0 +1,151 @@
+================================================================================
+load pg_denormalized
+================================================================================
+COPY 2979992
+COPY 3044365
+COPY 3038917
+COPY 3143286
+COPY 3189325
+COPY 3129896
+COPY 3157691
+COPY 3148130
+COPY 3306556
+COPY 3376266
+1695.58user 394.28system 25:44.67elapsed 135%CPU (0avgtext+0avgdata 17756maxresident)k
+0inputs+37776outputs (0major+69247minor)pagefaults 0swaps
+================================================================================
+load pg_normalized_batch
+================================================================================
+2024-04-17 14:32:40.129398 /data/tweets/geoTwitter21-01-03.zip
+2024-04-17 14:32:56.864149 insert_tweets i= 0
+Traceback (most recent call last):
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 432, in <module>
+    insert_tweets(connection,tweets,args.batch_size)
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 149, in insert_tweets
+    _insert_tweets(connection, tweet_batch)
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 368, in _insert_tweets
+    with connection.begin() as trans:
+         ^^^^^^^^^^^^^^^^^^
+  File "/home/sfullerton24/python/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 867, in begin
+    raise exc.InvalidRequestError(
+sqlalchemy.exc.InvalidRequestError: This connection has already initialized a SQLAlchemy Transaction() object via begin() or autobegin; can't call begin() here unless rollback() or commit() is called first.
+2024-04-17 14:32:40.131613 /data/tweets/geoTwitter21-01-05.zip
+2024-04-17 14:32:56.644986 insert_tweets i= 0
+Traceback (most recent call last):
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 432, in <module>
+    insert_tweets(connection,tweets,args.batch_size)
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 149, in insert_tweets
+    _insert_tweets(connection, tweet_batch)
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 368, in _insert_tweets
+    with connection.begin() as trans:
+         ^^^^^^^^^^^^^^^^^^
+  File "/home/sfullerton24/python/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 867, in begin
+    raise exc.InvalidRequestError(
+sqlalchemy.exc.InvalidRequestError: This connection has already initialized a SQLAlchemy Transaction() object via begin() or autobegin; can't call begin() here unless rollback() or commit() is called first.
+2024-04-17 14:32:40.132909 /data/tweets/geoTwitter21-01-09.zip
+2024-04-17 14:32:57.023762 insert_tweets i= 0
+Traceback (most recent call last):
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 432, in <module>
+    insert_tweets(connection,tweets,args.batch_size)
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 149, in insert_tweets
+    _insert_tweets(connection, tweet_batch)
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 368, in _insert_tweets
+    with connection.begin() as trans:
+         ^^^^^^^^^^^^^^^^^^
+  File "/home/sfullerton24/python/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 867, in begin
+    raise exc.InvalidRequestError(
+sqlalchemy.exc.InvalidRequestError: This connection has already initialized a SQLAlchemy Transaction() object via begin() or autobegin; can't call begin() here unless rollback() or commit() is called first.
+2024-04-17 14:32:40.127689 /data/tweets/geoTwitter21-01-04.zip
+2024-04-17 14:32:58.994898 insert_tweets i= 0
+Traceback (most recent call last):
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 432, in <module>
+    insert_tweets(connection,tweets,args.batch_size)
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 149, in insert_tweets
+    _insert_tweets(connection, tweet_batch)
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 368, in _insert_tweets
+    with connection.begin() as trans:
+         ^^^^^^^^^^^^^^^^^^
+  File "/home/sfullerton24/python/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 867, in begin
+    raise exc.InvalidRequestError(
+sqlalchemy.exc.InvalidRequestError: This connection has already initialized a SQLAlchemy Transaction() object via begin() or autobegin; can't call begin() here unless rollback() or commit() is called first.
+2024-04-17 14:32:40.125883 /data/tweets/geoTwitter21-01-01.zip
+2024-04-17 14:32:58.999115 insert_tweets i= 0
+Traceback (most recent call last):
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 432, in <module>
+    insert_tweets(connection,tweets,args.batch_size)
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 149, in insert_tweets
+    _insert_tweets(connection, tweet_batch)
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 368, in _insert_tweets
+    with connection.begin() as trans:
+         ^^^^^^^^^^^^^^^^^^
+  File "/home/sfullerton24/python/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 867, in begin
+    raise exc.InvalidRequestError(
+sqlalchemy.exc.InvalidRequestError: This connection has already initialized a SQLAlchemy Transaction() object via begin() or autobegin; can't call begin() here unless rollback() or commit() is called first.
+2024-04-17 14:32:40.127255 /data/tweets/geoTwitter21-01-10.zip
+2024-04-17 14:32:59.781768 insert_tweets i= 0
+Traceback (most recent call last):
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 432, in <module>
+    insert_tweets(connection,tweets,args.batch_size)
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 149, in insert_tweets
+    _insert_tweets(connection, tweet_batch)
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 368, in _insert_tweets
+    with connection.begin() as trans:
+         ^^^^^^^^^^^^^^^^^^
+  File "/home/sfullerton24/python/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 867, in begin
+    raise exc.InvalidRequestError(
+sqlalchemy.exc.InvalidRequestError: This connection has already initialized a SQLAlchemy Transaction() object via begin() or autobegin; can't call begin() here unless rollback() or commit() is called first.
+2024-04-17 14:32:40.124108 /data/tweets/geoTwitter21-01-07.zip
+2024-04-17 14:32:59.006787 insert_tweets i= 0
+Traceback (most recent call last):
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 432, in <module>
+    insert_tweets(connection,tweets,args.batch_size)
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 149, in insert_tweets
+    _insert_tweets(connection, tweet_batch)
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 368, in _insert_tweets
+    with connection.begin() as trans:
+         ^^^^^^^^^^^^^^^^^^
+  File "/home/sfullerton24/python/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 867, in begin
+    raise exc.InvalidRequestError(
+sqlalchemy.exc.InvalidRequestError: This connection has already initialized a SQLAlchemy Transaction() object via begin() or autobegin; can't call begin() here unless rollback() or commit() is called first.
+2024-04-17 14:32:40.124023 /data/tweets/geoTwitter21-01-02.zip
+2024-04-17 14:32:59.822719 insert_tweets i= 0
+Traceback (most recent call last):
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 432, in <module>
+    insert_tweets(connection,tweets,args.batch_size)
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 149, in insert_tweets
+    _insert_tweets(connection, tweet_batch)
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 368, in _insert_tweets
+    with connection.begin() as trans:
+         ^^^^^^^^^^^^^^^^^^
+  File "/home/sfullerton24/python/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 867, in begin
+    raise exc.InvalidRequestError(
+sqlalchemy.exc.InvalidRequestError: This connection has already initialized a SQLAlchemy Transaction() object via begin() or autobegin; can't call begin() here unless rollback() or commit() is called first.
+2024-04-17 14:32:40.128549 /data/tweets/geoTwitter21-01-06.zip
+2024-04-17 14:33:02.958968 insert_tweets i= 0
+Traceback (most recent call last):
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 432, in <module>
+    insert_tweets(connection,tweets,args.batch_size)
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 149, in insert_tweets
+    _insert_tweets(connection, tweet_batch)
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 368, in _insert_tweets
+    with connection.begin() as trans:
+         ^^^^^^^^^^^^^^^^^^
+  File "/home/sfullerton24/python/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 867, in begin
+    raise exc.InvalidRequestError(
+sqlalchemy.exc.InvalidRequestError: This connection has already initialized a SQLAlchemy Transaction() object via begin() or autobegin; can't call begin() here unless rollback() or commit() is called first.
+2024-04-17 14:32:40.127084 /data/tweets/geoTwitter21-01-08.zip
+2024-04-17 14:33:03.572614 insert_tweets i= 0
+Traceback (most recent call last):
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 432, in <module>
+    insert_tweets(connection,tweets,args.batch_size)
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 149, in insert_tweets
+    _insert_tweets(connection, tweet_batch)
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 368, in _insert_tweets
+    with connection.begin() as trans:
+         ^^^^^^^^^^^^^^^^^^
+  File "/home/sfullerton24/python/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 867, in begin
+    raise exc.InvalidRequestError(
+sqlalchemy.exc.InvalidRequestError: This connection has already initialized a SQLAlchemy Transaction() object via begin() or autobegin; can't call begin() here unless rollback() or commit() is called first.
+Command exited with non-zero status 10
+243.26user 27.30system 0:34.44elapsed 785%CPU (0avgtext+0avgdata 2850744maxresident)k
+41176inputs+4192outputs (68major+13603105minor)pagefaults 0swaps
