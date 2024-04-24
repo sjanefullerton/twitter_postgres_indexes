@@ -149,3 +149,1180 @@ sqlalchemy.exc.InvalidRequestError: This connection has already initialized a SQ
 Command exited with non-zero status 10
 221.66user 21.94system 0:29.29elapsed 831%CPU (0avgtext+0avgdata 2850876maxresident)k
 9984inputs+4136outputs (35major+9852732minor)pagefaults 0swaps
+================================================================================
+load pg_denormalized
+================================================================================
+COPY 2979992
+COPY 3038917
+COPY 3044365
+COPY 3143286
+COPY 3189325
+COPY 3129896
+COPY 3157691
+COPY 3148130
+COPY 3306556
+COPY 3376266
+1711.72user 406.12system 26:40.59elapsed 132%CPU (0avgtext+0avgdata 17688maxresident)k
+521112inputs+38992outputs (0major+73431minor)pagefaults 0swaps
+================================================================================
+load pg_normalized_batch
+================================================================================
+2024-04-24 13:14:09.815600 /data/tweets/geoTwitter21-01-02.zip
+Error occurred: This connection has already initialized a SQLAlchemy Transaction() object via begin() or autobegin; can't call begin() here unless rollback() or commit() is called first.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+2024-04-24 13:14:09.814894 /data/tweets/geoTwitter21-01-04.zip
+Error occurred: This connection has already initialized a SQLAlchemy Transaction() object via begin() or autobegin; can't call begin() here unless rollback() or commit() is called first.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+2024-04-24 13:14:09.815416 /data/tweets/geoTwitter21-01-09.zip
+Error occurred: This connection has already initialized a SQLAlchemy Transaction() object via begin() or autobegin; can't call begin() here unless rollback() or commit() is called first.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+2024-04-24 13:14:09.815141 /data/tweets/geoTwitter21-01-10.zip
+Error occurred: This connection has already initialized a SQLAlchemy Transaction() object via begin() or autobegin; can't call begin() here unless rollback() or commit() is called first.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+2024-04-24 13:14:09.814662 /data/tweets/geoTwitter21-01-05.zip
+Error occurred: This connection has already initialized a SQLAlchemy Transaction() object via begin() or autobegin; can't call begin() here unless rollback() or commit() is called first.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+2024-04-24 13:14:09.815326 /data/tweets/geoTwitter21-01-08.zip
+Error occurred: This connection has already initialized a SQLAlchemy Transaction() object via begin() or autobegin; can't call begin() here unless rollback() or commit() is called first.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+2024-04-24 13:14:09.815425 /data/tweets/geoTwitter21-01-03.zip
+Error occurred: This connection has already initialized a SQLAlchemy Transaction() object via begin() or autobegin; can't call begin() here unless rollback() or commit() is called first.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+2024-04-24 13:14:09.815595 /data/tweets/geoTwitter21-01-01.zip
+Error occurred: This connection has already initialized a SQLAlchemy Transaction() object via begin() or autobegin; can't call begin() here unless rollback() or commit() is called first.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+2024-04-24 13:14:09.814578 /data/tweets/geoTwitter21-01-07.zip
+Error occurred: This connection has already initialized a SQLAlchemy Transaction() object via begin() or autobegin; can't call begin() here unless rollback() or commit() is called first.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+2024-04-24 13:14:09.814835 /data/tweets/geoTwitter21-01-06.zip
+Error occurred: This connection has already initialized a SQLAlchemy Transaction() object via begin() or autobegin; can't call begin() here unless rollback() or commit() is called first.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+3485.20user 253.05system 6:35.39elapsed 945%CPU (0avgtext+0avgdata 2928808maxresident)k
+41848inputs+12840outputs (66major+118605462minor)pagefaults 0swaps
+================================================================================
+load pg_denormalized
+================================================================================
+COPY 2979992
+COPY 3038917
+COPY 3044365
+COPY 3189325
+COPY 3143286
+COPY 3157691
+COPY 3148130
+COPY 3129896
+COPY 3306556
+COPY 3376266
+1673.95user 373.96system 1:19:48elapsed 42%CPU (0avgtext+0avgdata 17632maxresident)k
+184inputs+110704outputs (4major+74371minor)pagefaults 0swaps
+================================================================================
+load pg_normalized_batch
+================================================================================
+2024-04-24 14:44:26.438728 /data/tweets/geoTwitter21-01-02.zip
+Error occurred: This connection has already initialized a SQLAlchemy Transaction() object via begin() or autobegin; can't call begin() here unless rollback() or commit() is called first.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+2024-04-24 14:44:26.437622 /data/tweets/geoTwitter21-01-03.zip
+Error occurred: This connection has already initialized a SQLAlchemy Transaction() object via begin() or autobegin; can't call begin() here unless rollback() or commit() is called first.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+2024-04-24 14:44:26.437165 /data/tweets/geoTwitter21-01-04.zip
+Error occurred: This connection has already initialized a SQLAlchemy Transaction() object via begin() or autobegin; can't call begin() here unless rollback() or commit() is called first.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+2024-04-24 14:44:26.439190 /data/tweets/geoTwitter21-01-05.zip
+Error occurred: This connection has already initialized a SQLAlchemy Transaction() object via begin() or autobegin; can't call begin() here unless rollback() or commit() is called first.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+2024-04-24 14:44:26.454437 /data/tweets/geoTwitter21-01-10.zip
+Error occurred: This connection has already initialized a SQLAlchemy Transaction() object via begin() or autobegin; can't call begin() here unless rollback() or commit() is called first.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+2024-04-24 14:44:26.437813 /data/tweets/geoTwitter21-01-01.zip
+Error occurred: This connection has already initialized a SQLAlchemy Transaction() object via begin() or autobegin; can't call begin() here unless rollback() or commit() is called first.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+2024-04-24 14:44:26.438907 /data/tweets/geoTwitter21-01-09.zip
+Error occurred: This connection has already initialized a SQLAlchemy Transaction() object via begin() or autobegin; can't call begin() here unless rollback() or commit() is called first.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+2024-04-24 14:44:26.438604 /data/tweets/geoTwitter21-01-07.zip
+Error occurred: This connection has already initialized a SQLAlchemy Transaction() object via begin() or autobegin; can't call begin() here unless rollback() or commit() is called first.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+2024-04-24 14:44:26.439571 /data/tweets/geoTwitter21-01-08.zip
+Error occurred: This connection has already initialized a SQLAlchemy Transaction() object via begin() or autobegin; can't call begin() here unless rollback() or commit() is called first.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+2024-04-24 14:44:26.438519 /data/tweets/geoTwitter21-01-06.zip
+Error occurred: This connection has already initialized a SQLAlchemy Transaction() object via begin() or autobegin; can't call begin() here unless rollback() or commit() is called first.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+Error occurred: Can't operate on closed transaction inside context manager.  Please complete the context manager before emitting further commands.
+Transaction rolled back.
+3481.66user 245.36system 6:33.02elapsed 948%CPU (0avgtext+0avgdata 2928472maxresident)k
+11864inputs+12688outputs (49major+118131849minor)pagefaults 0swaps
+================================================================================
+load pg_denormalized
+================================================================================
+Command exited with non-zero status 255
+0.23user 0.17system 0:10.53elapsed 3%CPU (0avgtext+0avgdata 17552maxresident)k
+128inputs+2136outputs (0major+17804minor)pagefaults 0swaps
+================================================================================
+load pg_denormalized
+================================================================================
+COPY 2979992
+COPY 3044365
+COPY 3038917
+COPY 3143286
+COPY 3189325
+COPY 3129896
+COPY 3157691
+COPY 3148130
+COPY 3306556
+COPY 3376266
+1705.64user 405.24system 34:17.88elapsed 102%CPU (0avgtext+0avgdata 17532maxresident)k
+96inputs+49240outputs (0major+76705minor)pagefaults 0swaps
+================================================================================
+load pg_normalized_batch
+================================================================================
+2024-04-24 15:25:48.957428 /data/tweets/geoTwitter21-01-10.zip
+2024-04-24 15:26:04.735819 insert_tweets i= 0
+Traceback (most recent call last):
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 458, in <module>
+    insert_tweets(connection,tweets,args.batch_size)
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 175, in insert_tweets
+    _insert_tweets(connection, tweet_batch)
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 394, in _insert_tweets
+    with connection.begin() as trans:
+         ^^^^^^^^^^^^^^^^^^
+  File "/home/sfullerton24/python/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 867, in begin
+    raise exc.InvalidRequestError(
+sqlalchemy.exc.InvalidRequestError: This connection has already initialized a SQLAlchemy Transaction() object via begin() or autobegin; can't call begin() here unless rollback() or commit() is called first.
+2024-04-24 15:25:48.894194 /data/tweets/geoTwitter21-01-02.zip
+2024-04-24 15:26:05.158726 insert_tweets i= 0
+Traceback (most recent call last):
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 458, in <module>
+    insert_tweets(connection,tweets,args.batch_size)
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 175, in insert_tweets
+    _insert_tweets(connection, tweet_batch)
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 394, in _insert_tweets
+    with connection.begin() as trans:
+         ^^^^^^^^^^^^^^^^^^
+  File "/home/sfullerton24/python/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 867, in begin
+    raise exc.InvalidRequestError(
+sqlalchemy.exc.InvalidRequestError: This connection has already initialized a SQLAlchemy Transaction() object via begin() or autobegin; can't call begin() here unless rollback() or commit() is called first.
+2024-04-24 15:25:48.929942 /data/tweets/geoTwitter21-01-07.zip
+2024-04-24 15:26:05.164471 insert_tweets i= 0
+Traceback (most recent call last):
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 458, in <module>
+    insert_tweets(connection,tweets,args.batch_size)
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 175, in insert_tweets
+    _insert_tweets(connection, tweet_batch)
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 394, in _insert_tweets
+    with connection.begin() as trans:
+         ^^^^^^^^^^^^^^^^^^
+  File "/home/sfullerton24/python/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 867, in begin
+    raise exc.InvalidRequestError(
+sqlalchemy.exc.InvalidRequestError: This connection has already initialized a SQLAlchemy Transaction() object via begin() or autobegin; can't call begin() here unless rollback() or commit() is called first.
+2024-04-24 15:25:48.904105 /data/tweets/geoTwitter21-01-01.zip
+2024-04-24 15:26:06.390552 insert_tweets i= 0
+Traceback (most recent call last):
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 458, in <module>
+    insert_tweets(connection,tweets,args.batch_size)
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 175, in insert_tweets
+    _insert_tweets(connection, tweet_batch)
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 394, in _insert_tweets
+    with connection.begin() as trans:
+         ^^^^^^^^^^^^^^^^^^
+  File "/home/sfullerton24/python/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 867, in begin
+    raise exc.InvalidRequestError(
+sqlalchemy.exc.InvalidRequestError: This connection has already initialized a SQLAlchemy Transaction() object via begin() or autobegin; can't call begin() here unless rollback() or commit() is called first.
+2024-04-24 15:25:48.937099 /data/tweets/geoTwitter21-01-04.zip
+2024-04-24 15:26:06.223656 insert_tweets i= 0
+Traceback (most recent call last):
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 458, in <module>
+    insert_tweets(connection,tweets,args.batch_size)
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 175, in insert_tweets
+    _insert_tweets(connection, tweet_batch)
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 394, in _insert_tweets
+    with connection.begin() as trans:
+         ^^^^^^^^^^^^^^^^^^
+  File "/home/sfullerton24/python/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 867, in begin
+    raise exc.InvalidRequestError(
+sqlalchemy.exc.InvalidRequestError: This connection has already initialized a SQLAlchemy Transaction() object via begin() or autobegin; can't call begin() here unless rollback() or commit() is called first.
+2024-04-24 15:25:48.915480 /data/tweets/geoTwitter21-01-03.zip
+2024-04-24 15:26:06.881080 insert_tweets i= 0
+Traceback (most recent call last):
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 458, in <module>
+    insert_tweets(connection,tweets,args.batch_size)
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 175, in insert_tweets
+    _insert_tweets(connection, tweet_batch)
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 394, in _insert_tweets
+    with connection.begin() as trans:
+         ^^^^^^^^^^^^^^^^^^
+  File "/home/sfullerton24/python/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 867, in begin
+    raise exc.InvalidRequestError(
+sqlalchemy.exc.InvalidRequestError: This connection has already initialized a SQLAlchemy Transaction() object via begin() or autobegin; can't call begin() here unless rollback() or commit() is called first.
+2024-04-24 15:25:48.927737 /data/tweets/geoTwitter21-01-08.zip
+2024-04-24 15:26:07.706692 insert_tweets i= 0
+Traceback (most recent call last):
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 458, in <module>
+    insert_tweets(connection,tweets,args.batch_size)
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 175, in insert_tweets
+    _insert_tweets(connection, tweet_batch)
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 394, in _insert_tweets
+    with connection.begin() as trans:
+         ^^^^^^^^^^^^^^^^^^
+  File "/home/sfullerton24/python/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 867, in begin
+    raise exc.InvalidRequestError(
+sqlalchemy.exc.InvalidRequestError: This connection has already initialized a SQLAlchemy Transaction() object via begin() or autobegin; can't call begin() here unless rollback() or commit() is called first.
+2024-04-24 15:25:48.944440 /data/tweets/geoTwitter21-01-09.zip
+2024-04-24 15:26:07.039644 insert_tweets i= 0
+Traceback (most recent call last):
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 458, in <module>
+    insert_tweets(connection,tweets,args.batch_size)
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 175, in insert_tweets
+    _insert_tweets(connection, tweet_batch)
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 394, in _insert_tweets
+    with connection.begin() as trans:
+         ^^^^^^^^^^^^^^^^^^
+  File "/home/sfullerton24/python/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 867, in begin
+    raise exc.InvalidRequestError(
+sqlalchemy.exc.InvalidRequestError: This connection has already initialized a SQLAlchemy Transaction() object via begin() or autobegin; can't call begin() here unless rollback() or commit() is called first.
+2024-04-24 15:25:48.939996 /data/tweets/geoTwitter21-01-05.zip
+2024-04-24 15:26:06.654411 insert_tweets i= 0
+Traceback (most recent call last):
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 458, in <module>
+    insert_tweets(connection,tweets,args.batch_size)
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 175, in insert_tweets
+    _insert_tweets(connection, tweet_batch)
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 394, in _insert_tweets
+    with connection.begin() as trans:
+         ^^^^^^^^^^^^^^^^^^
+  File "/home/sfullerton24/python/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 867, in begin
+    raise exc.InvalidRequestError(
+sqlalchemy.exc.InvalidRequestError: This connection has already initialized a SQLAlchemy Transaction() object via begin() or autobegin; can't call begin() here unless rollback() or commit() is called first.
+2024-04-24 15:25:48.948557 /data/tweets/geoTwitter21-01-06.zip
+2024-04-24 15:26:10.527179 insert_tweets i= 0
+Traceback (most recent call last):
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 458, in <module>
+    insert_tweets(connection,tweets,args.batch_size)
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 175, in insert_tweets
+    _insert_tweets(connection, tweet_batch)
+  File "/home/sfullerton24/twitter_postgres_indexes/load_tweets_batch.py", line 394, in _insert_tweets
+    with connection.begin() as trans:
+         ^^^^^^^^^^^^^^^^^^
+  File "/home/sfullerton24/python/lib/python3.11/site-packages/sqlalchemy/engine/base.py", line 867, in begin
+    raise exc.InvalidRequestError(
+sqlalchemy.exc.InvalidRequestError: This connection has already initialized a SQLAlchemy Transaction() object via begin() or autobegin; can't call begin() here unless rollback() or commit() is called first.
+Command exited with non-zero status 10
+222.71user 21.32system 0:30.24elapsed 806%CPU (0avgtext+0avgdata 2850956maxresident)k
+5592inputs+4248outputs (4major+10224298minor)pagefaults 0swaps
