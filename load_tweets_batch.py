@@ -319,7 +319,7 @@ def _insert_tweets(connection,input_tweets):
         try:
             urls = tweet['extended_tweet']['entities']['urls']
         except KeyError:
-            urls = tweet['entities']['urls']
+            urls = tweet['entities']['url']
 
         for url in urls:
             id_urls = url['expanded_url']
@@ -388,6 +388,7 @@ def _insert_tweets(connection,input_tweets):
                 'type':medium['type']
                 })
 
+    connection.commit() #added apr 25
     ######################################## 
     # STEP 2: perform the actual SQL inserts
     ######################################## 
@@ -445,6 +446,7 @@ if __name__ == '__main__':
     # NOTE:
     # we reverse sort the filenames because this results in fewer updates to the users table,
     # which prevents excessive dead tuples and autovacuums
+    connection.commit() #added apr 25
     with connection.begin() as trans:
         for filename in sorted(args.inputs, reverse=True):
             with zipfile.ZipFile(filename, 'r') as archive: 
