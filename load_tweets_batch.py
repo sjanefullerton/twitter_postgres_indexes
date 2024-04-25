@@ -319,7 +319,7 @@ def _insert_tweets(connection,input_tweets):
         try:
             urls = tweet['extended_tweet']['entities']['urls']
         except KeyError:
-            urls = tweet['entities']['url']
+            urls = tweet['entities']['urls']
 
         for url in urls:
             id_urls = url['expanded_url']
