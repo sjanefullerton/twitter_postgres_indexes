@@ -12,10 +12,10 @@ files='/data/tweets/geoTwitter21-01-01.zip
 /data/tweets/geoTwitter21-01-10.zip'
 
 
-#echo '================================================================================'
-#echo 'load pg_denormalized'
-#echo '================================================================================'
-#echo "$files" | time parallel sh load_denormalized.sh
+echo '================================================================================'
+echo 'load pg_denormalized'
+echo '================================================================================'
+echo "$files" | time parallel sh load_denormalized.sh
 
 echo '================================================================================'
 echo 'load pg_normalized_batch'
